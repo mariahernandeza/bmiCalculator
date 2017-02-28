@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1185D0921E6573CF00E4A2AB /* obeseiii.png in Resources */ = {isa = PBXBuildFile; fileRef = 1185D08D1E6573CF00E4A2AB /* obeseiii.png */; };
+		1185D0931E6573CF00E4A2AB /* obese.png in Resources */ = {isa = PBXBuildFile; fileRef = 1185D08E1E6573CF00E4A2AB /* obese.png */; };
+		1185D0941E6573CF00E4A2AB /* overweight.png in Resources */ = {isa = PBXBuildFile; fileRef = 1185D08F1E6573CF00E4A2AB /* overweight.png */; };
+		1185D0951E6573CF00E4A2AB /* normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 1185D0901E6573CF00E4A2AB /* normal.png */; };
+		1185D0961E6573CF00E4A2AB /* underweight.png in Resources */ = {isa = PBXBuildFile; fileRef = 1185D0911E6573CF00E4A2AB /* underweight.png */; };
 		119103261E5A31A200AC48EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119103251E5A31A200AC48EE /* AppDelegate.swift */; };
 		119103281E5A31A200AC48EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119103271E5A31A200AC48EE /* ViewController.swift */; };
 		1191032B1E5A31A200AC48EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119103291E5A31A200AC48EE /* Main.storyboard */; };
@@ -15,6 +20,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1185D08D1E6573CF00E4A2AB /* obeseiii.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = obeseiii.png; path = ../../obeseiii.png; sourceTree = "<group>"; };
+		1185D08E1E6573CF00E4A2AB /* obese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = obese.png; path = ../../obese.png; sourceTree = "<group>"; };
+		1185D08F1E6573CF00E4A2AB /* overweight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = overweight.png; path = ../../overweight.png; sourceTree = "<group>"; };
+		1185D0901E6573CF00E4A2AB /* normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = normal.png; path = ../../normal.png; sourceTree = "<group>"; };
+		1185D0911E6573CF00E4A2AB /* underweight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = underweight.png; path = ../../underweight.png; sourceTree = "<group>"; };
 		119103221E5A31A200AC48EE /* bmiCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bmiCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		119103251E5A31A200AC48EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		119103271E5A31A200AC48EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +64,11 @@
 		119103241E5A31A200AC48EE /* bmiCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				1185D08D1E6573CF00E4A2AB /* obeseiii.png */,
+				1185D08E1E6573CF00E4A2AB /* obese.png */,
+				1185D08F1E6573CF00E4A2AB /* overweight.png */,
+				1185D0901E6573CF00E4A2AB /* normal.png */,
+				1185D0911E6573CF00E4A2AB /* underweight.png */,
 				119103251E5A31A200AC48EE /* AppDelegate.swift */,
 				119103271E5A31A200AC48EE /* ViewController.swift */,
 				119103291E5A31A200AC48EE /* Main.storyboard */,
@@ -123,7 +138,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1185D0961E6573CF00E4A2AB /* underweight.png in Resources */,
+				1185D0951E6573CF00E4A2AB /* normal.png in Resources */,
+				1185D0931E6573CF00E4A2AB /* obese.png in Resources */,
+				1185D0921E6573CF00E4A2AB /* obeseiii.png in Resources */,
 				119103301E5A31A200AC48EE /* LaunchScreen.storyboard in Resources */,
+				1185D0941E6573CF00E4A2AB /* overweight.png in Resources */,
 				1191032D1E5A31A200AC48EE /* Assets.xcassets in Resources */,
 				1191032B1E5A31A200AC48EE /* Main.storyboard in Resources */,
 			);
