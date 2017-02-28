@@ -297,6 +297,7 @@
 				119103361E5A31A200AC48EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
